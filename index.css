@@ -12,7 +12,7 @@ header {
 
 main {
   display: flex;
-  flex-flow: column wrap;
+  flex-flow: row wrap;
   align-items: stretch;
   justify-content: center;
   background-color: #FBFFF4;
@@ -22,7 +22,7 @@ main {
 
 .item {
   height: 100px;
-  
+  width: 100px;
   margin: 5px;
   background-color: #FCF2EC;
 }
