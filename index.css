@@ -40,3 +40,7 @@ footer {
   flex-direction: column;
 }
 
+.setWidth {
+  flex-basis: 100px;
+  flex-grow: 1;
+}
